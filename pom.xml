@@ -6,5 +6,16 @@
     <groupId>io.panda.learning</groupId>
     <artifactId>learning</artifactId>
     <version>1.0.0</version>
+    <modules>
+        <module>netty101</module>
+        <module>jenkins101</module>
+        <module>rxJava101</module>
+        <module>redis101</module>
+        <module>springcloud101</module>
+        <module>hadoop101</module>
+        <module>hbase101</module>
+        <module>elasticsearch101</module>
+        <module>mongodb101</module>
+    </modules>
     <packaging>pom</packaging>
 </project>
